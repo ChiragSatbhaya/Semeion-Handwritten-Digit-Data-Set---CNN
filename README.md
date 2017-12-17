@@ -17,7 +17,7 @@
  - Tests were run on a Core i5 4210U CPU with 16GB of RAM.
 
 | CNN Activation Type  | Accuracy |
-| ----------- | ---- | -------- |
-| tanh     | 92.05%   |
-| softrelu         | 91.4%   |
-| relu  | 95.30%   |
+| -------------------- | -------- |
+|      tanh            |  92.05%  |
+|     softrelu         |  91.4%   |
+|      relu            |  95.30%  |
